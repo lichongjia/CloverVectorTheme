@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="os_x5F_cap" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<g id="cap_x5F_logo">
+	<g id="captBg">
+		<circle style="fill:#F9F9F9;" cx="64" cy="64" r="32"/>
+	</g>
+	<g id="path1011">
+		<circle id="pathCaptBG" style="fill:#FFFFFF;" cx="64" cy="64" r="31.7"/>
+		<linearGradient id="pathCaptX_1_" gradientUnits="userSpaceOnUse" x1="64" y1="82.9481" x2="64" y2="45.0519">
+			<stop  offset="0" style="stop-color:#FF3E00"/>
+			<stop  offset="1" style="stop-color:#00B2F1"/>
+		</linearGradient>
+		<polygon id="pathCaptX" style="fill:url(#pathCaptX_1_);" points="49.8,45.1 51.7,45.1 63.9,62.4 76.3,45.1 78.2,45.1 64.8,64.1 
+			78.2,82.9 76.1,82.9 63.9,65.8 51.7,82.9 49.8,82.9 63,64.1 		"/>
+	</g>
+	<g id="captBorder">
+		<path style="fill:#B3B3BE;" d="M64,32c-17.7,0-32,14.3-32,32s14.3,32,32,32s32-14.3,32-32S81.7,32,64,32z M64,95.3
+			c-17.3,0-31.3-14-31.3-31.3c0-17.3,14-31.3,31.3-31.3s31.3,14,31.3,31.3C95.3,81.3,81.3,95.3,64,95.3z"/>
+	</g>
+</g>
+</svg>

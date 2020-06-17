@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="os_x5F_mav" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<g id="mav_x5F_logo_1_">
+	<g id="macBackground_9_">
+		<circle style="fill:#F9F9F9;" cx="64" cy="64" r="32"/>
+	</g>
+	<g id="path109">
+		<circle id="pathMavBG" style="fill:#FFFFFF;" cx="64" cy="64" r="31.7"/>
+		
+			<radialGradient id="pathMavX_1_" cx="69.8907" cy="-59.1758" r="31.9828" gradientTransform="matrix(1 0 0 1 0 140.0855)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#003845"/>
+			<stop  offset="0.5059" style="stop-color:#059BAD"/>
+			<stop  offset="1" style="stop-color:#50A84A"/>
+		</radialGradient>
+		<polygon id="pathMavX" style="fill:url(#pathMavX_1_);" points="77.8,80.9 65.9,63.8 77.8,46.7 78.8,45.5 77.1,45.5 75.4,45.5 
+			74.9,45.5 74.6,45.6 63.9,60.6 53.4,45.7 53.1,45.5 52.6,45.5 50.9,45.5 49.2,45.5 50.2,46.7 61.9,63.8 50.2,81 49.2,82.5 
+			50.9,82.5 52.6,82.5 53.1,82.5 53.4,81.9 63.9,67 74.4,82 74.7,82.5 75.2,82.5 77.1,82.5 78.8,82.5 		"/>
+	</g>
+	<g id="macBorder_9_">
+		<path style="fill:#B3B3BE;" d="M64,32c-17.7,0-32,14.3-32,32s14.3,32,32,32s32-14.3,32-32S81.7,32,64,32z M64,95.3
+			c-17.3,0-31.3-14-31.3-31.3c0-17.3,14-31.3,31.3-31.3s31.3,14,31.3,31.3C95.3,81.3,81.3,95.3,64,95.3z"/>
+	</g>
+</g>
+</svg>

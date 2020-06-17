@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="os_x5F_vista" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<g id="osx_x5F_logo" transform="translate(31.000000, 15.000000)">
+	<g id="macBackground_5_">
+		<circle style="fill:#F9F9F9;" cx="33" cy="49" r="32"/>
+	</g>
+	<g id="pathOSX" transform="translate(0,0.2)">
+		<polygon id="polygon15" style="fill:#80808A;" points="19.9,29 31.4,48.9 20,68.6 23.3,68.6 33,51.7 42.7,68.6 46,68.6 34.6,48.9 
+			46.1,29 42.9,29 33,46.2 23.1,29 		"/>
+	</g>
+	<g id="macBorder_5_">
+		<path style="fill:#B3B3BE;" d="M33,17C15.3,17,1,31.3,1,49s14.3,32,32,32s32-14.3,32-32S50.7,17,33,17z M33,80.3
+			c-17.3,0-31.3-14-31.3-31.3c0-17.3,14-31.3,31.3-31.3s31.3,14,31.3,31.3C64.3,66.3,50.3,80.3,33,80.3z"/>
+	</g>
+</g>
+</svg>
